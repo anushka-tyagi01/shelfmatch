@@ -1,0 +1,7 @@
+myenv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.ipynb_checkpoints/
+ratings.csv

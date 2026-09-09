@@ -1,0 +1,12 @@
+myenv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+*.ipynb
+.vscode/
+ratings.csv
+book_tags.csv
+tags.csv
+books.csv
+train.py
