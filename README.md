@@ -2,8 +2,8 @@
 
 A book recommendation API built on **10,000 real books** and **~6 million real Goodreads ratings**. Combines two genuine recommendation techniques — content-based filtering and item-item collaborative filtering — both evaluated offline against random baselines, not just demonstrated informally.
 
-**Live demo:** _add after deploying to Streamlit Cloud_
-**API docs (Swagger):** _add after deploying to Render_
+**Live demo:** https://coffeeshopretailanalysis-lxh9qutmayegsfikudvhui.streamlit.app/
+**API docs (Swagger):** https://shelfmatch.onrender.com
 
 > Note: hosted on free tiers and may take 30-60 seconds to wake up after inactivity.
 
